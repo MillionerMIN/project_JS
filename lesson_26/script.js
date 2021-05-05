@@ -29,4 +29,4 @@ if(switcher) {
    console.log('Working....');
 }
 
-console.log(typeof(!!'444444')); //boolean
+console.log(typeof(!!'444444')); //boolean 
