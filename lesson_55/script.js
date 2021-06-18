@@ -53,3 +53,4 @@ Promise.all([test(1000), test(2000)]).then(() => {
 Promise.race([test(1000), test(2000)]).then(() => {
    console.log('Race');
 });
+0
