@@ -58,7 +58,3 @@ let jone = new Persone('Jone', new Date(1998, 6, 1));
 
 console.log(jone.birthday); //1998-06-30T21:00:00.000Z
 console.log(jone.age); //23
-
-
-
-
